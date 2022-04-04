@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  width: 100%;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+h1 {
+  font-family: 'Cormorant Garamond', georgia, serif;
+  font-size: 2rem;
+  color: #302f2f;
+}
+
+h2{
+  font-family: arial, sans-serif;
+  font-size: 1rem;
+  color: #302f2f;
+}
+
+p {
+  font-family: arial, sans-serif;
+  font-size: 0.9rem;
+  color: #302f2f;
+}
